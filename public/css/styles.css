@@ -10,3 +10,7 @@ img{
 #form_pergunta{
     margin-top: 5vh;
 }
+small{
+    display: flex;
+    justify-content: center;
+}
